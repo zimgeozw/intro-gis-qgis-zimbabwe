@@ -2,6 +2,8 @@
 
 A practical course by the **Zimgeo team** ([www.zimgeo.co.zw](https://www.zimgeo.co.zw), info@zimgeo.co.zw, kudzai@zimgeo.co.zw) that introduces Geographic Information Systems using free QGIS software and real Zimbabwe data.
 
+The course is also published on the Zimgeo training page: [www.zimgeo.co.zw/training-tutorials](https://www.zimgeo.co.zw/training-tutorials/)
+
 ![Zimbabwe provinces, districts, rail network and health facilities](data/preview.png)
 
 ## Sessions
