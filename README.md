@@ -11,8 +11,8 @@ The course is also published on the Zimgeo training page: [www.zimgeo.co.zw/trai
 | Session | Topic | Data |
 |---|---|---|
 | 1 | What is GIS, spatial data types and vector data in QGIS ([Practical 1](practicals/Zimgeo_Intro_GIS_QGIS_Practical_1.docx)) | [intro_gis_session1_data.zip](https://github.com/zimgeozw/intro-gis-qgis-zimbabwe/raw/main/data/intro_gis_session1_data.zip) |
-| 2 | Raster data (coming next) | |
-| 3 | Georeferencing (coming next) | |
+| 2 | Raster data (for enrolled students) | |
+| 3 | Georeferencing (for enrolled students) | |
 
 ## Data downloads
 
