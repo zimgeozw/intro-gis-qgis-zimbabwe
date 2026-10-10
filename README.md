@@ -12,8 +12,8 @@ The course is also published on the Zimgeo training page: [www.zimgeo.co.zw/trai
 |---|---|---|
 | 1 | What is GIS, spatial data types and vector data in QGIS ([Practical 1](practicals/Zimgeo_Intro_GIS_QGIS_Practical_1.docx)) | [intro_gis_session1_data.zip](https://github.com/zimgeozw/intro-gis-qgis-zimbabwe/raw/main/data/intro_gis_session1_data.zip) |
 | 2 | Raster data (for enrolled students) | |
-| 3 | Georeferencing (for enrolled students) | |
-| 4 | Coordinate systems and UTM (for enrolled students) | |
+| 3 | Coordinate systems and UTM (for enrolled students) | |
+| 4 | Georeferencing (for enrolled students) | |
 | 5 | Data collection (for enrolled students) | |
 | 6+ | Advanced data processing in QGIS (for enrolled students) | |
 
