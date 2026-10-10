@@ -8,7 +8,7 @@ A practical course by the **Zimgeo team** ([www.zimgeo.co.zw](https://www.zimgeo
 
 | Session | Topic | Data |
 |---|---|---|
-| 1 | What is GIS, spatial data types and vector data in QGIS | `intro_gis_session1_data.zip` |
+| 1 | What is GIS, spatial data types and vector data in QGIS ([Practical 1](practicals/Zimgeo_Intro_GIS_QGIS_Practical_1.docx)) | [intro_gis_session1_data.zip](https://github.com/zimgeozw/intro-gis-qgis-zimbabwe/raw/main/data/intro_gis_session1_data.zip) |
 | 2 | Raster data (coming next) | |
 | 3 | Georeferencing (coming next) | |
 
