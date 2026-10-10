@@ -1,6 +1,6 @@
 # Introduction to GIS with QGIS
 
-A practical course by the **Zimgeo team** ([www.zimgeo.co.zw](https://www.zimgeo.co.zw), info@zimgeo.co.zw) that introduces Geographic Information Systems using free QGIS software and real Zimbabwe data.
+A practical course by the **Zimgeo team** ([www.zimgeo.co.zw](https://www.zimgeo.co.zw), info@zimgeo.co.zw, kudzai@zimgeo.co.zw) that introduces Geographic Information Systems using free QGIS software and real Zimbabwe data.
 
 ![Zimbabwe provinces, districts, rail network and health facilities](data/preview.png)
 
